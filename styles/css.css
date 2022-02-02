@@ -1,0 +1,21 @@
+button{
+padding: .5rem 1rem;
+cursor: pointer;
+border-radius: 15px;
+boder: none;
+transition: .4s;
+}
+
+button:hover{
+background-color:orange;
+color:white;
+padding:12px;
+}
+
+body{
+background-color:#123456;
+height: 100vh;
+display: flex;
+aling-items: center;
+justify-content: center;
+}
