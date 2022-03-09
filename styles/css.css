@@ -1,8 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 button{
 padding: .5rem 1rem;
 cursor: pointer;
 border-radius: 15px;
-boder: none;
+border: none;
 transition: .4s;
 }
 
@@ -16,6 +20,6 @@ body{
 background-color:#123456;
 height: 100vh;
 display: flex;
-aling-items: center;
+align-items: center;
 justify-content: center;
 }
